@@ -1,5 +1,6 @@
 {
   "name": "wiresrc",
+  "version": "0.1.2",
   "main": "wiresrc.js",
   "engines": {
     "node": ">=0.8.0",
@@ -16,7 +17,7 @@
     "minimatch": "~0.3.0",
     "glob": "~4.0.0"
   },
-  "version": "0.1.1",
+  
   "description": "Utility to wire javascript src files to your index.html",
   "devDependencies": {
     "tap": "~0.4.0"
