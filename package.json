@@ -24,10 +24,7 @@
   "scripts": {
     "test": "tap test/*.js"
   },
-  "repository": {
-    "type": "git",
-    "url": "git@bitbucket.org:evaisse/wiresrc.git"
-  },
+  "repository": "evaisse/wiresrc",
   "keywords": [
     "dependencies",
     "tasks",
