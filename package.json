@@ -1,6 +1,6 @@
 {
   "name": "wiresrc",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "main": "wiresrc.js",
   "engines": {
     "node": ">=0.8.0",
